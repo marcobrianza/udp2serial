@@ -4,8 +4,8 @@ udp2serial
 A bridge between UDP packets and a tty serial port, framing the udp packet data on the serial line with slip. 
 Developed to use the OSC protocol on the Arduino Yun
 
-note 20/12/2016
-The latest Bridge library in Arduino natively supports UDP (also thanks to this), so this software is not longer required to use OSC on Yun.
+**note: 20/12/2016
+The latest Bridge library in Arduino natively supports UDP (also thanks to this), so this software is not longer required to use OSC on Yun.**
 
 version 2.0     2014/07/05
 
